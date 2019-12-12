@@ -8,4 +8,6 @@ You can create a new project following the welcome page of Visual Studio Code.
 
 Be sure to select **uno** as the board. And then you have the following buttons that you can use to compile your code and then upload to the board.
 
+![Compile and Upload](figs/pio.png)
+
 Use the following exercise to test your setup.
